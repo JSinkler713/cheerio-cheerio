@@ -1,0 +1,25 @@
+{
+  "name": "cheerio-cheerio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSinkler713/cheerio-cheerio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSinkler713/cheerio-cheerio/issues"
+  },
+  "homepage": "https://github.com/JSinkler713/cheerio-cheerio#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "node-fetch": "^2.6.1",
+    "pg": "^8.5.1",
+    "sequelize": "^6.5.0"
+  }
+}
